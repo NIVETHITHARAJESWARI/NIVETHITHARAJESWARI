@@ -1,106 +1,125 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nivethitha+👋;AI+Engineer+in+Progress;Full-Stack+Developer;Building+Tech+for+Real-World+Impact+🐾" />
-</p>
+Got it — here is your **FULL READY-TO-PASTE Data Science GitHub README** (clean, viral-style, recruiter-focused, and complete with your Data Science toolbox properly filled).
 
-<h1 align="center">Hi 👋, I'm Nivethitha</h1>
-<h3 align="center">🚀 AI Engineer | Full-Stack Developer | Animal Welfare Tech Builder 🐾</h3>
+Just copy everything below into your `README.md` 👇
 
 ---
 
-## 📫 Connect With Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/nivethitha-rajeswari-626a81281/)
-* 📧 [Email](mailto:nivethitharajeswari6@gmail.com)
-* 🌐 [Portfolio](#) *(Coming soon)*
-
----
-
-Alright — we’ll turn your README into something that *looks like a product landing page*, not a student profile. Clean animations, strong visual hierarchy, recruiter-friendly impact, and a “scroll-worthy” feel.
-
-Below is your **VIRAL GitHub Profile README (copy-paste ready)** 👇
-
----
-
-# 🚀 ✨ Nivethitha | AI Engineer in the Making
+# 🚀 ✨ Nivethitha | Data Science & AI Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Building%20AI%20Systems%20that%20Matter&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Data%20Science%20%7C%20AI%20Engineer&fontSize=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Full-Stack+Developer;Data+Science+Student;Building+Real-World+AI+Systems+🐾" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Data+Science+Student;Machine+Learning+Engineer+in+Progress;Building+AI+Systems+that+Solve+Real+Problems;Python+%7C+ML+%7C+DSA+in+Java" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
-I’m a **Data Science & AI developer** focused on building **real-world intelligent systems** that solve meaningful problems.
+I am a **Data Science student focused on building intelligent, data-driven systems** that solve real-world problems using **Machine Learning, Data Analytics, and AI engineering principles**.
 
-My work blends:
+I specialize in:
 
-* 🤖 Machine Learning
-* 🌐 Full-Stack Development
-* 🧠 System Design Thinking
-* 📦 Product-Oriented Engineering
+* 📊 Turning data into meaningful insights
+* 🤖 Building machine learning models for real-world use cases
+* 🧠 Designing end-to-end AI-powered systems
+* ⚙️ Combining **ML + Full-Stack + Java DSA** for strong engineering depth
 
-🎯 I don’t just learn technologies — I use them to build **deployable, scalable solutions**.
-
-🐾 Passion: Technology for **animal welfare & social impact systems**
+🐾 Passion: Using AI for **animal welfare & real-world impact systems**
 
 ---
 
-## 🔥 Current Focus
+## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-00C896?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-4D96FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real--World%20Projects-FFD166?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-4D96FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-00C896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java%20DSA-FFD166?style=for-the-badge"/>
 </p>
 
-* 🐾 AI-powered Stray Animal Rescue Platform (real-time tracking system)
-* 📱 AI Screen Time Behavior Optimization App
-* 💻 Full-stack MERN development mastery
-* 🤖 Applied ML projects with deployment focus
+* 🐾 AI-based Stray Animal Tracking & Rescue System
+* 📱 AI Screen Time Behavior Analysis App
+* 📊 Real-world Data Science projects with deployment
+* 🤖 Machine Learning model building & optimization
+* ☕ Strengthening Java + Data Structures & Algorithms
 
 ---
 
-## 🧠 Tech Stack
+## 📊 Data Science Toolbox
 
-<p align="center">
+### 🧹 Data Handling & Analysis
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+* Data cleaning, preprocessing, transformation
+* Handling missing values & outliers
+* Exploratory Data Analysis (EDA)
 
-### 🌐 Frontend
+---
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+### 📈 Data Visualization
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=matplotlib" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+* Data storytelling using charts & graphs
+* Correlation & pattern analysis
+* Insight visualization for decision making
 
-### 🤖 AI / ML
+---
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+### 🤖 Machine Learning
 
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+
+* Supervised learning (Regression, Classification)
+* Unsupervised learning (Clustering, PCA)
+* Model evaluation & tuning
+
+---
+
+### 🧠 Statistics & Math Foundation
+
+* Probability & probability distributions
+* Hypothesis testing
+* Correlation & regression analysis
+* Linear algebra for ML foundations
+
+---
+
+### ⚙️ Deployment Basics
+
+<img src="https://skillicons.dev/icons?i=flask" />
+
+* Building ML APIs using Flask
+* Integrating models into web apps
+* Basic deployment understanding
+
+---
+
+## ⚔️ Data Structures & Algorithms (Java)
+
+* Arrays & Strings
+* Linked Lists
+* Stacks & Queues
+* Trees & Graphs (Basics)
+* Sorting & Searching Algorithms
+* Recursion & Backtracking
+* Dynamic Programming (learning phase)
+
+🧠 Focus: Building strong problem-solving foundation for AI engineering
 
 ---
 
 ## 🏆 Certifications
 
-<p align="center">
-
-🥇 Microsoft Azure AI Fundamentals (AI-900) — **911/1000**
-🚀 Focus: Machine Learning, Data Science, AI Systems
-📚 Continuously upgrading toward AI Engineering mastery
-
-</p>
+* 🥇 Microsoft Azure AI Fundamentals (AI-900) — **911/1000**
+* 📚 Ongoing: Machine Learning & Data Science specialization
+* 🚀 Focused on real-world AI system building
 
 ---
 
@@ -110,63 +129,60 @@ My work blends:
 
 ### 🐾 Stray Animal Tracking & Rescue System
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8U5vYH8X2vu/giphy.gif" width="300"/>
-</p>
-
-> A real-time AI-powered system designed to **track, report, and respond to stray animal incidents faster**
+> AI-powered platform for real-time animal rescue coordination
 
 * 📍 Crowdsourced reporting system with geolocation
-* ⚡ Emergency alert pipeline for NGOs
-* 🧠 Future: AI-based priority detection + adoption matching
+* ⚡ Emergency response workflow for NGOs
+* 🧠 Future: AI-based priority detection & adoption prediction
 
-**Tech:** Python • Node.js • React • MongoDB
-
----
-
-### 🎓 Alumni Management System
-
-> A full-stack system improving **alumni engagement & institutional communication**
-
-* 🔐 Secure registration verification
-* 📩 Automated email notification system
-* 💬 Forum-based communication platform
-
-**Tech:** PHP • MySQL • XAMPP
+**Tech:** Python • ML • Node.js • MongoDB • React
 
 ---
 
 ### 📊 Data Analyst Automation System
 
-> Automated pipeline for **data cleaning → analysis → visualization**
+> End-to-end data pipeline for automated analysis
 
-* ⚙️ Reduces manual data processing effort
-* 📈 Generates fast insights for decision-making
+* 🧹 Automated data cleaning
+* 📈 Visualization & insights generation
+* ⚙️ Reduces manual analytical effort
 
 **Tech:** Python • Pandas • NumPy • Matplotlib
 
 ---
 
-### 📱 AI Screen Time Optimizer
+### 📱 AI Screen Time Optimization System
 
-> AI system that helps users reduce digital addiction
+> Behavioral AI system for digital wellness
 
-* 📊 Tracks usage behavior patterns
-* 🧠 Provides personalized recommendations
-* 🔋 Improves productivity & focus
+* 📊 Usage tracking & behavior analysis
+* 🧠 ML-based pattern detection
+* 🔋 Personalized recommendations
 
 **Tech:** Python • ML • Flask
 
 ---
 
-## 📊 GitHub Analytics
+### 🎓 Alumni Management System
+
+> Full-stack system for institutional engagement
+
+* 🔐 Registration verification system
+* 📩 Email notification automation
+* 💬 Forum-based communication system
+
+**Tech:** PHP • MySQL
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIVETHITHARAJESWARI&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVETHITHARAJESWARI&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NIVETHITHARAJESWARI&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIVETHITHARAJESWARI&theme=tokyonight" />
 </p>
 
 ---
@@ -179,35 +195,29 @@ My work blends:
 
 ---
 
-## 👀 Profile Views
+## 💡 Final Thought
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NIVETHITHARAJESWARI&label=Profile%20Views&color=0e75b6&style=flat" />
+
+> “I don’t just analyze data — I transform it into intelligent systems that solve real-world problems.”
+
 </p>
 
 ---
 
-## 💡 Final Philosophy
+## 🚀 Career Direction
 
 <p align="center">
-
-> “I don’t just build projects. I build systems that solve real-world problems at scale.”
-
-</p>
-
-<p align="center">
-🚀 Currently building toward becoming a production-ready AI Engineer.
+<b>Data Science • Machine Learning Engineering • AI Systems Development</b>
 </p>
 
 ---
 
-## 🔥 BONUS (Recruiter Magnet Line)
+## 🔥 Open to Opportunities
 
 <p align="center">
-<b>Open to internships in AI / ML / Full-Stack Engineering 🚀</b>
+<b>Looking for Data Science / ML / AI Engineering Internship Opportunities 🚀</b>
 </p>
 
 ---
-
-
 
