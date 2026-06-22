@@ -1,8 +1,3 @@
-Got it — here is your **FULL READY-TO-PASTE Data Science GitHub README** (clean, viral-style, recruiter-focused, and complete with your Data Science toolbox properly filled).
-
-Just copy everything below into your `README.md` 👇
-
----
 
 # 🚀 ✨ Nivethitha | Data Science & AI Engineer
 
