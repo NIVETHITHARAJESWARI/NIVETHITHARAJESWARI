@@ -15,133 +15,166 @@
 
 ---
 
-## 🧠 About Me
+Alright — we’ll turn your README into something that *looks like a product landing page*, not a student profile. Clean animations, strong visual hierarchy, recruiter-friendly impact, and a “scroll-worthy” feel.
 
-I'm a Data Science student passionate about building **intelligent systems that solve real-world problems**.
+Below is your **VIRAL GitHub Profile README (copy-paste ready)** 👇
 
-I focus on combining **Machine Learning + Full-Stack Development** to create impactful applications — especially in **animal welfare 🐾**.
+---
 
-* 🎯 Goal: Become a top **AI Engineer** & secure a strong internship
-* 💡 Currently learning: ML, System Design, Full-Stack Development
-* 🛠️ Building projects that are **scalable, practical, and meaningful**
-* 🌱 Improving problem-solving & communication daily
+# 🚀 ✨ Nivethitha | AI Engineer in the Making
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Building%20AI%20Systems%20that%20Matter&fontSize=35&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Full-Stack+Developer;Data+Science+Student;Building+Real-World+AI+Systems+🐾" />
+</p>
+
+---
+
+## ⚡ About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I’m a **Data Science & AI developer** focused on building **real-world intelligent systems** that solve meaningful problems.
+
+My work blends:
+
+* 🤖 Machine Learning
+* 🌐 Full-Stack Development
+* 🧠 System Design Thinking
+* 📦 Product-Oriented Engineering
+
+🎯 I don’t just learn technologies — I use them to build **deployable, scalable solutions**.
+
+🐾 Passion: Technology for **animal welfare & social impact systems**
 
 ---
 
 ## 🔥 Current Focus
 
-* 🐾 **Stray Animal Tracking & Rescue App**
-* 📱 **AI Screen Time Reduction App**
-* 💻 **Full-Stack Development Mastery**
-* 🤖 **Machine Learning Projects (Real-world focused)**
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-00C896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4D96FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--World%20Projects-FFD166?style=for-the-badge"/>
+</p>
+
+* 🐾 AI-powered Stray Animal Rescue Platform (real-time tracking system)
+* 📱 AI Screen Time Behavior Optimization App
+* 💻 Full-stack MERN development mastery
+* 🤖 Applied ML projects with deployment focus
 
 ---
 
 ## 🧠 Tech Stack
 
+<p align="center">
+
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,js" />
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 ### 🤖 AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 
-### 📊 Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+</p>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
-* 🥇 **Microsoft AI-900: Azure AI Fundamentals** (Score: 911/1000)
-* 📚 Ongoing Machine Learning & Data Science Courses
-* 🚀 Actively building real-world AI + Full-Stack projects
+<p align="center">
+
+🥇 Microsoft Azure AI Fundamentals (AI-900) — **911/1000**
+🚀 Focus: Machine Learning, Data Science, AI Systems
+📚 Continuously upgrading toward AI Engineering mastery
+
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🐾 Stray Animal Tracking & Rescue App
+---
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/animal-rescue-app)
+### 🐾 Stray Animal Tracking & Rescue System
 
-* AI-powered platform to report and track stray animals in real-time
-* Helps NGOs and volunteers respond faster using location-based data
-* Planned features: AI prioritization, emergency alerts, adoption matching
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8U5vYH8X2vu/giphy.gif" width="300"/>
+</p>
 
-**Tech Stack:** Python, Node.js, MongoDB, React
+> A real-time AI-powered system designed to **track, report, and respond to stray animal incidents faster**
+
+* 📍 Crowdsourced reporting system with geolocation
+* ⚡ Emergency alert pipeline for NGOs
+* 🧠 Future: AI-based priority detection + adoption matching
+
+**Tech:** Python • Node.js • React • MongoDB
 
 ---
 
 ### 🎓 Alumni Management System
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/alumni-management-system)
+> A full-stack system improving **alumni engagement & institutional communication**
 
-* Developed a full-stack platform to manage alumni data and interactions
-* Includes registration verification, login system, and admin dashboard
-* Implemented email notifications for forum updates
-* Strengthens communication between students and alumni
+* 🔐 Secure registration verification
+* 📩 Automated email notification system
+* 💬 Forum-based communication platform
 
-**Tech Stack:** PHP, MySQL, XAMPP
+**Tech:** PHP • MySQL • XAMPP
 
 ---
 
 ### 📊 Data Analyst Automation System
 
-🔗 [View Project](https://github.com/YOUR-USERNAME/data-analyst-automation)
+> Automated pipeline for **data cleaning → analysis → visualization**
 
-* Automates data cleaning, analysis, and visualization
-* Generates insights and reduces manual effort in data tasks
-* Designed for fast and efficient decision-making
+* ⚙️ Reduces manual data processing effort
+* 📈 Generates fast insights for decision-making
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib
-
----
-
-### 📱 AI Screen Time Reduction App
-
-🔗 [View Project](https://github.com/YOUR-USERNAME/screen-time-ai)
-
-* Tracks usage behavior and provides smart recommendations
-* Helps improve productivity and reduce phone addiction
-
-**Tech Stack:** Python, Machine Learning, Flask
+**Tech:** Python • Pandas • NumPy • Matplotlib
 
 ---
 
-## 📊 GitHub Stats
+### 📱 AI Screen Time Optimizer
+
+> AI system that helps users reduce digital addiction
+
+* 📊 Tracks usage behavior patterns
+* 🧠 Provides personalized recommendations
+* 🔋 Improves productivity & focus
+
+**Tech:** Python • ML • Flask
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIVETHITHARAJESWARI&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVETHITHARAJESWARI&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NIVETHITHARAJESWARI&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=NIVETHITHARAJESWARI&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIVETHITHARAJESWARI&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NIVETHITHARAJESWARI&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -149,13 +182,32 @@ I focus on combining **Machine Learning + Full-Stack Development** to create imp
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NIVETHITHARAJESWARI&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=NIVETHITHARAJESWARI&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💭 Final Thought
+## 💡 Final Philosophy
 
-> “I don’t just want to build projects — I want to build solutions that actually matter.” 🐾
+<p align="center">
 
-🚀 This is just the beginning.
+> “I don’t just build projects. I build systems that solve real-world problems at scale.”
+
+</p>
+
+<p align="center">
+🚀 Currently building toward becoming a production-ready AI Engineer.
+</p>
+
+---
+
+## 🔥 BONUS (Recruiter Magnet Line)
+
+<p align="center">
+<b>Open to internships in AI / ML / Full-Stack Engineering 🚀</b>
+</p>
+
+---
+
+
+
